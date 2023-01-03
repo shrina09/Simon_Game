@@ -1,14 +1,21 @@
-body {
+ody {
   text-align: center;
   background-color: #011F3F;
 }
 
-#level-title {
-  font-family: 'Press Start 2P', cursive;
-  font-size: 3rem;
+footer {
+  color: #EAFDFC;
+}
+
+
+.heading-info {
+  font-family: 'EXO 2', cursive;
   margin:  5%;
+  font-size: 3rem;
   color: #FEF2BF;
 }
+
+
 
 .container {
   display: block;
