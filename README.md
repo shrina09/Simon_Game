@@ -1,4 +1,4 @@
-# Simon_Game 
+# Simon Game 
 A virtual version of the Simon game invented by Ralph H. Baer and Howard J. A fun way to test your short term memory!
 
 ## Getting Started
