@@ -15,4 +15,4 @@ Open up index.html in the web browser of your choice and play away!
 
 ## Author Information
 Your name: Shrina<br />
-Email: shrina@uoguelph.ca
+Email: shrinapatel359@gmail.com
